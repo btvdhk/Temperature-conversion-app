@@ -9,4 +9,4 @@ fahr = round(fahr, 4)
 cel = round(cel, 4)
 kel = round(kel, 4)
 
-print(f"\nDegrees Fahreneheit: {fahr} \nDegrees celcious:\t {cel} \nDegrees kelvin:\t\t {kel}")
+print(f"\nDegrees Fahreneheit:\t {fahr} \nDegrees celcious:\t {cel} \nDegrees kelvin:\t\t {kel}")
